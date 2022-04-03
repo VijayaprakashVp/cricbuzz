@@ -37,8 +37,8 @@ We used HTML, CSS, ES6, Node.js ,Express.js and MongoDB, React, redux, Material 
 
 # 4. Our Team:
 We were five members in team:
-1. Bheemudu Guguloth
-2. Vijayaprakash
+1. Vijayaprakash
+2. Bheemudu Guguloth
 3. MALLELA NIRANJAN KUMAR
 4. Chaitanya Makala
 5. Priyanka dubey
@@ -46,7 +46,7 @@ We were five members in team:
 # 5. Quick Start
 1. Open a folder where you want to clone the repo
 2. Do git bash here
-3. Add command git clone https://github.com/bheema-284/cricbuzz.git
+3. Add command git clone https://github.com/VijayaprakashVp/cricbuzz
 4. The repository folder is cloned
 5. Open in VS Code
 6. Open project run with command called npm run dev on your local system 
